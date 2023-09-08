@@ -28,7 +28,7 @@
 
 
 ## 고려해봐야 할 사항
-- BunJs는 Linux만 가능합니다!(Window 네이티브는 보안문제로 불가능하지만 노력중이라고 합니다!)
+- BunJs는 Linux만 가능합니다!([Window 네이티브는 런타임만 지원하고 있습니다!](https://bun.sh/docs/installation#windows))
 - RunTime에 대한 이해가 필요합니다!
 
 ## References
