@@ -27,5 +27,7 @@
 - BunJs는 Linux만 가능합니다!([Window 네이티브는 런타임만 지원하고 있습니다!](https://bun.sh/docs/installation#windows))
 - RunTime에 대한 이해가 필요합니다!
 
+## Bun.js가 빠른 이유
+
 ## References
 - [Bun.js 공식 사이트](https://bun.sh/)
