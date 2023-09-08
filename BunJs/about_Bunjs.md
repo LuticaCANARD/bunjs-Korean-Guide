@@ -2,7 +2,7 @@
 
 ## Bun is a JavaScript runtime.
 - Bun.Js는 Javascript의 새로운 Runtime입니다.
-- Node.js를 대체할 수 있는 Javascript의 Runtime이며, 
+- Node.js를 대체할 수 있는 Javascript의 Runtime이며, Node에서 작성된 90%의 코드를 돌릴 수 있습니다 !
 
 ## 어떤 장점이 있을까요?
 - Bun 공식 사이트에서는 다음과 같이 소개하고 있습니다.
