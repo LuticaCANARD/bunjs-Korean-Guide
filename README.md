@@ -1,6 +1,9 @@
 # bunjs-Korean-Guide
 Guide of BunJS written by Korean
 
+# INDEX
+## BunJs
+- [Bun.Js에 대하여](./BunJs/about_Bunjs.md) 
 
 # 작성가이드
 - 모든 가이드는 .md 확장자로 작성해주세요!
