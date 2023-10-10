@@ -1,6 +1,6 @@
 ## `bun init`
 
-Scaffold an empty project with the interactive `bun init` command.
+`bun init` 커맨드를 통하여 새로운 빈 프로젝트의 발판(scaffold)을 마련할 수 있습니다.
 
 ```bash
 $ bun init
@@ -20,6 +20,7 @@ To get started, run:
   bun run index.ts
 ```
 
+`enter`를 눌러 각각의 질문이 기본으로 설정된 답을 승인하거나, 혹은 `-y` 플래그로 기본값을 자동으로 승인할 수 있습니다.
 Press `enter` to accept the default answer for each prompt, or pass the `-y` flag to auto-accept the defaults.
 
 ## `bun create`
